@@ -19,7 +19,7 @@ a .mdi-open-in-new {
 .btn-secondary:focus {
   color: #fff;
   text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #8f93f9;
+  background-color: #78A2FF;
   border: 0;
 }
 
